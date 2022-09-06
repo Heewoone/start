@@ -1,2 +1,2 @@
 # start
-Haha
+Print "haha"
