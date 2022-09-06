@@ -1,2 +1,1 @@
-# start
-Print "haha"
+Puts "Hello world!"
